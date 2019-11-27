@@ -2,8 +2,9 @@ package gitPractice;
 
 public class Common {
 	String master;
+	int originDev;
 	
-	public String conflict(String master) {
-		return master;
+	public int conflict(int originDev) {
+		return originDev;
 	}
 }
