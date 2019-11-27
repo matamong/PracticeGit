@@ -4,7 +4,8 @@ public class Common {
 	String upstreamMaster;
 	int originDev;
 	
-	public String conflict(String upstreamMaster) {
-		return upstreamMaster;
+	
+	public void conflict(String upstreamMaster) {
+		system.out.println("upstreamMaster");
 	}
 }
