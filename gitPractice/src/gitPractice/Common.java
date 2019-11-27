@@ -1,10 +1,10 @@
 package gitPractice;
 
 public class Common {
-	String master;
+	String upstreamMaster;
 	int originDev;
 	
-	public int conflict(int originDev) {
-		return originDev;
+	public String conflict(String upstreamMaster) {
+		return upstreamMaster;
 	}
 }
