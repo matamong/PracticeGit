@@ -1,0 +1,6 @@
+funcition b(){
+}
+function a(master,exp){
+}
+function c(){
+}
