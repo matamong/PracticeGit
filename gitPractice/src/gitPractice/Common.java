@@ -5,7 +5,8 @@ public class Common {
 	int originDev;
 	int originDev2;
 	
-	public int conflict(int originDev2) {
-		return originDev2;
+	
+	public void conflict(String upstreamMaster) {
+		System.out.println("upstreamMaster");
 	}
 }
