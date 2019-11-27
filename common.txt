@@ -2,3 +2,5 @@ funcition b(){
 }
 function a(){
 }
+function c(){
+}
