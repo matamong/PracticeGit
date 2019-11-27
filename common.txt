@@ -1,6 +1,6 @@
 funcition b(){
 }
-function a(){
+function a(master){
 }
 function c(){
 }
