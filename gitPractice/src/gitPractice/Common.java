@@ -3,8 +3,9 @@ package gitPractice;
 public class Common {
 	String upstreamMaster;
 	int originDev;
+	int originDev2;
 	
-	public String conflict(String upstreamMaster) {
-		return upstreamMaster;
+	public int conflict(int originDev2) {
+		return originDev2;
 	}
 }
